@@ -19,6 +19,8 @@ Customizable Configurations: Easy-to-configure options to tailor the system to s
   If you’re not using the latest version of vRP 2, a small code modification in User.lua is required. 
   Replacement code will be provided.
 
+  you can just drag the file from the core_update file and place it inside the main directory of the vRP 2 framework
+
 # Requirements
 
   Compatible with QB-Core and similar frameworks.
