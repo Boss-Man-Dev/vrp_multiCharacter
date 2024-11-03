@@ -10,40 +10,40 @@ Customizable Configurations: Easy-to-configure options to tailor the system to s
 
 # Installation & Setup
 
-  1. Download the Repository
-    Download or clone this repository to your local machine.
+### Download the Repository
+  * Download or clone this repository to your local machine.
 
-  2. Integrate with Your Framework
-    Follow the setup instructions below to integrate the system with your existing framework. Customize the UI and other settings as needed.
+### Add the script to your server
+  * Locate the vrp_multiCharacter file in the repository, and move it to your server main directory or specific addons folder.
 
-  3. Add the vrp_multiCharacter File
-    Locate the vrp_multiCharacter file in the repository, and move it to your server files directory.
+### Update server.cfg
+  * add `ensure vrp_multiCharacter` to your server.cfg
 
 # Special Instructions
 
-  Compatibility with vRP 2
-  If you are not using the latest version of vRP 2, a small modification to the User.lua file may be necessary. Replacement code is included in this repository.
+### Compatibility with vRP 2
+  * If you are not using the latest version of vRP 2, a small modification to the User.lua file may be necessary. Replacement code is included in this repository.
 
-  Updating Core Files
-  To update core files, drag the file from the core_update folder and place it directly in the main directory of your vRP 2 framework.
+### Updating Core Files
+  * To update core files, drag the file from the core_update folder and place it directly in the main directory of your vRP 2 framework.
 
 # Requirements
 
-  Compatible with vRP2 framework currently.
+vRP2 framework.
 
 Note: This system is designed for performance and optimized for smooth gameplay transitions, making it an ideal choice for roleplay servers with multiple characters per player.
 
 # Other
 
-  Default command to open ui is '/character'
-  -- change the command name on line 18 in the server.lua
+  ### Default command is `/character`
+  * change the command name on line 18 in the server.lua
   
-# Configuration files
-  cfg > multicharacter.lua
-  -- Handles spawn locations, default groups, default ped customizations
+# Configuration
+### Change spawn locations, default groups, default ped customizations
+* cfg > multicharacter.lua
 
-  cfg > html > config.js
-  -- handles max character enties, post addresses, character info loading oreder, character creation form fields
+### Change max character enties, post addresses, character info loading oreder, character creation form fields
+* cfg > html > config.js
 
 # Screenshots
 
