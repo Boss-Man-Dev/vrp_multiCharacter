@@ -45,6 +45,9 @@ Note: This system is designed for performance and optimized for smooth gameplay 
 ### Change max character enties, post addresses, character info loading oreder, character creation form fields
 * cfg > html > config.js
 
+### custom loading screen toggle
+* cfg > multicharacter.lua -- cfg.loading (default is false)
+
 # Screenshots
 
 ![1](https://github.com/user-attachments/assets/8960e86d-f959-47b1-b30a-f3b3d450d842)
