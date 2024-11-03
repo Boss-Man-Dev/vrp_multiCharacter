@@ -14,6 +14,8 @@ Customizable Configurations: Easy-to-configure options to tailor the system to s
   Follow the setup instructions in the README to integrate the system with your existing framework.
   Customize UI and settings as needed.
 
+  After Downoading, Ensure you find the file name vRP_multiCharacter and place it in your server.
+
 # Special Instructions
 
   If you’re not using the latest version of vRP 2, a small code modification in User.lua is required. 
@@ -26,6 +28,17 @@ Customizable Configurations: Easy-to-configure options to tailor the system to s
   Compatible with QB-Core and similar frameworks.
 
 Note: This system is designed for performance and optimized for smooth gameplay transitions, making it an ideal choice for roleplay servers with multiple characters per player.
+
+# Other
+
+  Default command to open ui is '/character'
+  
+# Configuration files
+  cfg > multicharacter.lua
+  -- Handles spawn locations, default groups, default ped customizations
+
+  cfg > html > config.js
+  -- handles max character enties, post addresses, character info loading oreder, character creation form fields
 
 # Screenshots
 
