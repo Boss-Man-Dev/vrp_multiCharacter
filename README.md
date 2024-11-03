@@ -14,7 +14,7 @@ Customizable Configurations: Easy-to-configure options to tailor the system to s
   * Download or clone this repository to your local machine.
 
 ### Add the script to your server
-  * Locate the vrp_multiCharacter file in the repository, and move it to your server main directory or specific addons folder.
+  * Locate the file named `vrp_multiCharacter` in the repository, and move it to your server main directory or specific addons folder.
 
 ### Update server.cfg
   * add `ensure vrp_multiCharacter` to your server.cfg
