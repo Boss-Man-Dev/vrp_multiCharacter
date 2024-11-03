@@ -25,7 +25,7 @@ Customizable Configurations: Easy-to-configure options to tailor the system to s
 
 # Requirements
 
-  Compatible with QB-Core and similar frameworks.
+  Compatible with vRP2 framework currently.
 
 Note: This system is designed for performance and optimized for smooth gameplay transitions, making it an ideal choice for roleplay servers with multiple characters per player.
 
