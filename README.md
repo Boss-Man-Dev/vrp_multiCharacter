@@ -10,18 +10,22 @@ Customizable Configurations: Easy-to-configure options to tailor the system to s
 
 # Installation & Setup
 
-  Download or clone the repository.
-  Follow the setup instructions in the README to integrate the system with your existing framework.
-  Customize UI and settings as needed.
+  1. Download the Repository
+    Download or clone this repository to your local machine.
 
-  After Downoading, Ensure you find the file name vrp_multiCharacter and place it in your server files.
+  2. Integrate with Your Framework
+    Follow the setup instructions below to integrate the system with your existing framework. Customize the UI and other settings as needed.
+
+  3. Add the vrp_multiCharacter File
+    Locate the vrp_multiCharacter file in the repository, and move it to your server files directory.
 
 # Special Instructions
 
-  If you’re not using the latest version of vRP 2, a small code modification in User.lua is required. 
-  Replacement code will be provided.
+  Compatibility with vRP 2
+  If you are not using the latest version of vRP 2, a small modification to the User.lua file may be necessary. Replacement code is included in this repository.
 
-  you can just drag the file from the core_update file and place it inside the main directory of the vRP 2 framework
+  Updating Core Files
+  To update core files, drag the file from the core_update folder and place it directly in the main directory of your vRP 2 framework.
 
 # Requirements
 
