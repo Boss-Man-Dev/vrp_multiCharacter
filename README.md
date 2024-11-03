@@ -14,7 +14,7 @@ Customizable Configurations: Easy-to-configure options to tailor the system to s
   Follow the setup instructions in the README to integrate the system with your existing framework.
   Customize UI and settings as needed.
 
-  After Downoading, Ensure you find the file name vRP_multiCharacter and place it in your server.
+  After Downoading, Ensure you find the file name vrp_multiCharacter and place it in your server files.
 
 # Special Instructions
 
