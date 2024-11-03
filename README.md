@@ -32,6 +32,7 @@ Note: This system is designed for performance and optimized for smooth gameplay 
 # Other
 
   Default command to open ui is '/character'
+  -- change the command name on line 18 in the server.lua
   
 # Configuration files
   cfg > multicharacter.lua
